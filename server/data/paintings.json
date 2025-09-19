@@ -1,0 +1,25 @@
+{
+  "1": {
+    "title": "Untitled",
+    "shapes": [
+      {
+        "type": "circle",
+        "x": 226,
+        "y": 145,
+        "id": "e28c2e75-6c41-4293-9b8c-e3453ddbaf86"
+      },
+      {
+        "type": "circle",
+        "x": 410,
+        "y": 243,
+        "id": "69b9f0de-cc81-449a-bd75-bfa75e62ad73"
+      },
+      {
+        "type": "circle",
+        "x": 613,
+        "y": 143,
+        "id": "9f43db92-254c-44b8-bfff-5c578294ac1d"
+      }
+    ]
+  }
+}
